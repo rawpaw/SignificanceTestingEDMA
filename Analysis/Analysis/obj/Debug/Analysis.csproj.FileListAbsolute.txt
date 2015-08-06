@@ -1,0 +1,23 @@
+C:\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\obj\Debug\Analysis.Form1.resources
+C:\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\obj\Debug\Analysis.Properties.Resources.resources
+C:\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\obj\Debug\Analysis.csproj.GenerateResource.Cache
+C:\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\bin\Debug\Analysis.exe
+C:\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\bin\Debug\Analysis.pdb
+C:\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\obj\Debug\Analysis.exe
+C:\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\obj\Debug\Analysis.pdb
+C:\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\bin\Debug\Analysis.exe.manifest
+C:\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\bin\Debug\Analysis.application
+C:\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\obj\Debug\Analysis.exe.manifest
+C:\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\obj\Debug\Analysis.application
+G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\obj\Debug\Analysis.exe
+G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\obj\Debug\Analysis.pdb
+G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\bin\Debug\Analysis.exe.manifest
+G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\bin\Debug\Analysis.application
+G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\bin\Debug\Analysis.exe
+G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\bin\Debug\Analysis.pdb
+G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\obj\Debug\Analysis.Form1.resources
+G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\obj\Debug\Analysis.Properties.Resources.resources
+G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\obj\Debug\Analysis.csproj.GenerateResource.Cache
+G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\obj\Debug\Analysis.exe.manifest
+G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis\obj\Debug\Analysis.application

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Analysis">
+</Property><Property Name="Solution File" Value="G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis.sln">
+</Property><Property Name="User Options File" Value="G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Analysis.suo">
+</Property><Property Name="Date" Value="05 March 2013">
+</Property><Property Name="Time" Value="22:17 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Analysis.sln" Description="File successfully backed up as G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Backup\Analysis.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Analysis.suo" Description="File successfully backed up as G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Backup\Analysis.suo">
+</Event><Event ErrorLevel="0" Project="Analysis" Source="Analysis\Analysis.csproj" Description="Project file successfully backed up as G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Backup\Analysis\Analysis.csproj">
+</Event><Event ErrorLevel="0" Project="Analysis" Source="Analysis\Analysis.csproj.user" Description="Project user file successfully backed up as G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Backup\Analysis\Analysis.csproj.user">
+</Event><Event ErrorLevel="0" Project="Analysis" Source="Analysis\Form1.cs" Description="File successfully backed up as G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Backup\Analysis\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Analysis" Source="Analysis\Form1.Designer.cs" Description="File successfully backed up as G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Backup\Analysis\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Analysis" Source="Analysis\Program.cs" Description="File successfully backed up as G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Backup\Analysis\Program.cs">
+</Event><Event ErrorLevel="0" Project="Analysis" Source="Analysis\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Backup\Analysis\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Analysis" Source="Analysis\Properties\Resources.Designer.cs" Description="File successfully backed up as G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Backup\Analysis\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Analysis" Source="Analysis\Properties\Settings.Designer.cs" Description="File successfully backed up as G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Backup\Analysis\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Analysis" Source="Analysis\Species.cs" Description="File successfully backed up as G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Backup\Analysis\Species.cs">
+</Event><Event ErrorLevel="0" Project="Analysis" Source="Analysis\Analysis_TemporaryKey.pfx" Description="File successfully backed up as G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Backup\Analysis\Analysis_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="Analysis" Source="Analysis\Properties\Settings.settings" Description="File successfully backed up as G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Backup\Analysis\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Analysis" Source="Analysis\Form1.resx" Description="File successfully backed up as G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Backup\Analysis\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Analysis" Source="Analysis\Properties\Resources.resx" Description="File successfully backed up as G:\Other\JAMROOM PC\Documents and Settings\Southpaw\My Documents\Visual Studio 2008\Projects\Analysis\Backup\Analysis\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Analysis" Source="Analysis\Analysis.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Analysis" Source="Analysis\Analysis.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Analysis.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Analysis.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Analysis" Source="Analysis\Analysis.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

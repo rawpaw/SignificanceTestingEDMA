@@ -12,4 +12,8 @@ SPECIES_NAME_N, <distance1>, <distance2>, ....., <distanceN>
 
 The outputs are textfiles containing matrices with comma separated values (similar to the input file).
 
+NOTE:
+
+This application is designed for a specific input and output and is not completely robust. There are known issues and these can be addressed in the future. Any queries related to the code can be directed to Daniel Roach. Any queries related to the analysis algortithm and design can be directed to Lauren Schroeder. Both can be contacted at lschroeder1510@gmail.com.
+
 
